@@ -11,3 +11,4 @@
 除了以上Kits, 还有一些为特定服务编写的Kits:
 
  - **ExpressKit**(快递查询API适配, 目前仅适用于kuaidi100 API)
+ - **StoreKit**(应用/表盘商店套件, 搭配lua表盘使用)
